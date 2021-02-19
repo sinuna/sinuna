@@ -1,4 +1,18 @@
-### Hi there 👋 I'm Sinuna
+### Hi there, Welcome 👋 I'm Sinuna Chaudhary 👩‍💻
+
+I am Fullstack Web Developer, specilizing Frontend React, Responsive Design, Backend Node, Express, MongoDB, PHP, MYSQL and CMS WordPress
+
+##Connect With Me
+<a align="center">
+  <a href=""><img src="" alt="">Linkedin</a>
+</a>
+<a align="center">
+  <a href=""><img src="" alt="">portfolio</a>
+</a>
+<a align="center">
+  <a href=""><img src="" alt="">youtube</a>
+</a>
+
 
 <!--
 **sinuna/sinuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
