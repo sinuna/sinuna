@@ -15,7 +15,7 @@ I am Fullstack Web Developer, specilizing Frontend React, Responsive Design, Bac
 <img align="left" alt="NodeJS" width="8%" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="ExpressJS" width="8%" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="left" alt="MongoDB" width="8%" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="WordPress" width="8%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" />
+<img align="left" alt="WordPress" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" />
 <img align="left" alt="MySQL" width="8%" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="PHP" width="8%" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="HTML5" width="8%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
