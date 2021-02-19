@@ -19,10 +19,9 @@ I am Fullstack Web Developer, specilizing Frontend React, Responsive Design, Bac
 <img align="left" alt="PHP" width="6%" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="HTML5" width="7%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" width="6%" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<br>
-<img align="left" alt="SASS" width="6%" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="Bootstrap" width="10%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="JQuery" width="8%" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="left" alt="SASS" width="7%" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
 <!--
 **sinuna/sinuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
