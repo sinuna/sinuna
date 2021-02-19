@@ -1,5 +1,5 @@
 ### Hi there, Welcome 👋 I'm Sinuna Chaudhary 👩‍💻
-I am Fullstack Web Developer, specilizing Frontend React, Responsive Design, Backend Node, Express, MongoDB, PHP, MYSQL and CMS WordPress
+I am Fullstack Web Developer, specilizing Frontend React, Responsive Design, Backend Node, Express, MongoDB, PHP, MYSQL and WordPress.
 
 ### Connect with me: <br/>
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinunachaudhary/)
