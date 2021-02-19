@@ -1,12 +1,13 @@
-### Hi there, Welcome 👋 I'm Sinuna Chaudhary 👩‍💻
-I am Fullstack Web Developer, specilizing Frontend React, Responsive Design, Backend Node, Express, MongoDB, PHP, MYSQL and WordPress.
+### Hello, folks! <img width="8%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Gmail" />
+I'm Sinuna Chaudhary 👩‍💻, fullstack Web Developer, specilizing Frontend React, Responsive Design, Backend Node, Express, MongoDB, PHP, MYSQL and WordPress.
+
 
 ### Connect with me: <br/>
 <a href="mailto: sinuna.chaudhary@gmail.com" target="_blank"><img width="8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/sinunachaudhary/" target="_blank" ><img width="10%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 <a href="https://github.com/sinuna" target="_blank"><img width="9%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 <a href="https://www.youtube.com/channel/UCcbiyKw8IH3WFqVNYHu9hhw/videos" target="_blank"><img width="10%" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
-
+ 👋  
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="10%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
