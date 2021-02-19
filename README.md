@@ -2,6 +2,7 @@
 I am Fullstack Web Developer, specilizing Frontend React, Responsive Design, Backend Node, Express, MongoDB, PHP, MYSQL and WordPress.
 
 ### Connect with me: <br/>
+<a href="mailto: sinuna.chaudhary@gmail.com"><img width="8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank" /></a>
 <a href="https://www.linkedin.com/in/sinunachaudhary/"><img width="10%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank" /></a>
 <a href="https://github.com/sinuna"><img width="9%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" target="_blank" /></a>
 <a href="https://www.youtube.com/channel/UCcbiyKw8IH3WFqVNYHu9hhw/videos"><img width="10%" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" target="_blank" /></a>
