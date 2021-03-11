@@ -1,4 +1,4 @@
-### Hello, folks! <img width="4%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Gmail" />
+### Hello, folks! <img width="5%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Gmail" />
 I'm Sinuna Chaudhary 👩‍💻, fullstack Web Developer, specilizing Frontend React, Flexbox, Responsive Design, Backend Node, Express, MongoDB, PHP, MYSQL and WordPress.
 
 
